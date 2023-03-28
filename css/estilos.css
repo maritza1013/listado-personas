@@ -2,11 +2,11 @@ html {
     background-color: #2196f3;
     min-height: 1000px;
     font-family: "helvetica neue";
-    background: url(img.png), #2196f3;
+    background: url(img.png), #3cd9e4;
     background: url(img.png),
       -webkit-gradient(linear, right top, left top, from(#2196f3), to(#009688));
     background: url(img.png),
-      linear-gradient(to left, #2196f3, #009688);
+      linear-gradient(to left, #2196f3, hsl(303, 92%, 35%));
   }
   
   h1 {
